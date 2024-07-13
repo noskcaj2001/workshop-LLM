@@ -1,0 +1,9 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+tiktoken
+wikipedia
+pypdf
+llmx
+langchain-community
