@@ -1,5 +1,4 @@
-## Projeto LLM
-
+## ChatLT
 
 Chat-Bot usando a CLT como base de recuperação de texto (RAG)
 
