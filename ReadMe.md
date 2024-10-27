@@ -1,5 +1,8 @@
 ## Projeto LLM
 
+
+Chat - Bot usando a CLT como base de recuperação de texto (RAG)
+
 Esse projeto é resultado de um workshop da Linux Tips que participei, cujo objetivo era apresentar o conceito do framework LangChain e construir uma aplicação utilizando Pinecone, OpenAI e Python.
 
 LangChain é um framework que facilita a integração de modelos de linguagem com outras fontes de dados, fluxos de trabalho e APIs, permitindo a criação de aplicações avançadas de processamento de linguagem natural.
