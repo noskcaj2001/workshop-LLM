@@ -1,7 +1,7 @@
 ## Projeto LLM
 
 
-Chat - Bot usando a CLT como base de recuperação de texto (RAG)
+Chat-Bot usando a CLT como base de recuperação de texto (RAG)
 
 Esse projeto é resultado de um workshop da Linux Tips que participei, cujo objetivo era apresentar o conceito do framework LangChain e construir uma aplicação utilizando Pinecone, OpenAI e Python.
 
